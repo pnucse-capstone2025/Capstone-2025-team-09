@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/nRcUn8vA)
-
 # AR 기반 원격 협업 시스템 구현
 202055569 윤민혁 | 202055507 강유승 | 202055525 김준성
 
@@ -281,11 +279,14 @@ MediaRecorder API로 화상 통화 및 AR 세션 화면을 녹화한다. 녹화�
 > 원격 상담 페이지 레이아웃을 수정하여, 사용자의 카메라 화면보다 전문가 화면이 크게 표시되도록 UI를 재구성하였다.
 
 ## 5. 설치 및 실행 방법
-> ## 도움을 받고 싶다면 "게스트", 도움을 주고 싶다면 "전문가"로 회원가입이 필수입니다
+> ## 도움을 받고 싶다면 "게스트", 도움을 주고 싶다면 "전문가"로 회원가입이 필수
 > ### [ARSOL 서비스 바로가기](https://ggg-ar-sol.org/)
 
 ### 5.1. 설치절차 및 실행 방법
-> ### [ARSOL 서비스 바로가기](https://ggg-ar-sol.org/)
+> 1. '설치 및 실행 방법'에 첨부한 링크를 통해 사이트에 접속한다
+> 2. 목적에 맞는 역할으로 회원가입을 진행한다
+> 3. 도움이 필요할 경우 방을 생성 후, 전문가 입장을 기다린다
+> 4. 전문가가 입장하면 실시간 통화를 통해 도움을 받는다 
 
 ### 5.2. 오류 발생 시 해결 방법
 본 프로젝트는 현재까지 치명적인 Known Issues는 발견되지 않았다.
@@ -301,9 +302,9 @@ MediaRecorder API로 화상 통화 및 AR 세션 화면을 녹화한다. 녹화�
 
 ## 6. 소개 자료 및 시연 영상
 ### 6.1. 프로젝트 소개 자료
-> PPT 등
+> #### [PPTX](https://docs.google.com/presentation/d/1_K0G38TkStyIA23GOIeUMbe_6HagfBQk/edit?usp=sharing&ouid=100877779012705094226&rtpof=true&sd=true)
 ### 6.2. 시연 영상
-> 영상 링크 또는 주요 장면 설명
+> #### [유튜브 링크](https://youtu.be/V8as0GTWRN0?si=N_-T8QAlrOU5m1pA)
 
 ## 7. 팀 구성
 ### 7.1. 팀원별 소개 및 역할 분담
